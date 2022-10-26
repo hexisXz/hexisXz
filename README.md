@@ -15,6 +15,5 @@
 |my linux "Distro"|
 |-----------------|   
 |1 Alacritty: if you dont use alacritty idk what you are doing|
-|
 |2 xmonad: the best window manager|
     
