@@ -12,7 +12,7 @@
 # my "Distro"
 
 
-|my linux "Distro"-|
+|my-linux-"Distro"-|
 |----|-----|-------|   
 |Alacritty|if you dont use alacritty idk what you are doing|
     
