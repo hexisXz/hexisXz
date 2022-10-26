@@ -12,7 +12,7 @@
 # my "Distro"
 
 Alacritty
-|-----|--|
+
 xmonad
 
 DOOM emacs
