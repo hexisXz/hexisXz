@@ -14,4 +14,6 @@
 |2 xmonad: the best window manager|
 |3 pop OS as the base|
 |4 exa: a better ls|
+|5 firefox|
+|6 xmobar: and polybar|
     
