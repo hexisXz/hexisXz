@@ -16,6 +16,7 @@
 |4 exa: a better ls|
 |5 firefox|
 |6 xmobar: and polybar|
+|7 pacstall: cant forget pacstall|
 
 ## ------------------------------------------------------
 
