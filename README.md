@@ -14,7 +14,7 @@
 Alacritty
 |-----|--|
 xmonad
-|-----|--|
+
 DOOM emacs
 |--------|
     
