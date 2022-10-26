@@ -14,9 +14,10 @@
 |2 xmonad: the best window manager|
 |3 pop OS as the base|
 |4 exa: a better ls|
-|5 firefox|
-|6 xmobar: and polybar|
-|7 pacstall: cant forget pacstall|
+|5 DOOM emacs: best program/app/terminal/IDE/text editor/webbrowser/os i have ever used :)|
+|6 firefox|
+|7 xmobar: and polybar|
+|8 pacstall: cant forget pacstall|
 
 ## -------------------------------------------------------
 
