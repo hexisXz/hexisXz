@@ -7,4 +7,7 @@
 
 **linux user since i was 12**
 |----------------------------|                                                 
-       my "Distro"          
+       my "Distro"
+       -----------
+       |Alacritty| 
+       -----------
