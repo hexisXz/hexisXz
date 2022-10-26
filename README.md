@@ -14,5 +14,5 @@
 
 |my|linux|"Distro"|
 |----|-----|-------|   
-|Alacritty|DOOM emacs|if you dont use alacritty idk what you are doing|
+|Alacritty|if you dont use alacritty idk what you are doing|
     
