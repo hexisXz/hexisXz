@@ -16,4 +16,9 @@
 |4 exa: a better ls|
 |5 firefox|
 |6 xmobar: and polybar|
-    
+
+
+|programs i have made/making that i am proud of|
+|----------------------------------------------|
+|1 ps-lookup: good for searching up active programs|
+|2 hexpmg: a simple package manager: still being worked on|
