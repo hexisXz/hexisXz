@@ -11,10 +11,8 @@
        
 # my "Distro"
 
-Alacritty
 
-xmonad
-
-DOOM emacs
-|--------|
+|my|linux|"Distro"|
+|----|-----|-------|   
+|Alacritty|DOOM emacs|if you dont use alacritty idk what you are doing|
     
