@@ -4,7 +4,6 @@
 - if you don't use Alacritty idk what you are doing.
 
 
-|----------------------------|
 **linux user since i was 12**
 |----------------------------|                                                 
           
