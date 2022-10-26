@@ -18,6 +18,10 @@
 |6 xmobar: and polybar|
 
 
+
+
+
+
 |programs i have made/making that i am proud of|
 |----------------------------------------------|
 |1 ps-lookup: good for searching up active programs|
