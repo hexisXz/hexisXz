@@ -28,3 +28,4 @@
 |----------------------------------------------|
 |1 ps-lookup: good for searching up active programs|
 |2 hexpmg: a simple package manager: still being worked on|
+|3 hexOS: a window manager driven distro|
