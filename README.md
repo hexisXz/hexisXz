@@ -1,10 +1,11 @@
 ### hexisXz profile
 
-**STATUS**
-- switched to dwm -
-
-----------------------------
 - i code in bash and python 
+
+
+**STATUS**
+
+- switched to dwm -
 ----------------------------
 
 **linux user since i was 12**
