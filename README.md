@@ -1,5 +1,8 @@
 ### hexisXz profile
 
+**STATUS**
+- switched to dwm -
+
 - i code in bash and python 
 ----------------------------
 
