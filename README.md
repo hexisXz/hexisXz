@@ -17,7 +17,7 @@
 |-----------------|   
 |1 Alacritty: if you dont use alacritty idk what you are doing|
 |2 dwm: the second best window manager|
-|3 Arch linux as the base|
+|3 Arch linux, popOS, void Linux, freeBSD and openBSD the base|
 |4 exa: a better ls|
 |5 DOOM emacs: best program/app/terminal/IDE/text editor/webbrowser/os i have ever used :)|
 |6 firefox|
