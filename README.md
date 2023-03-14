@@ -13,7 +13,7 @@
 |Age 15|      
        
 
-|my linux "Distro"|
+|my Operating System|
 |-----------------|   
 |1 Alacritty: if you dont use alacritty idk what you are doing|
 |2 dwm: the second best window manager|
