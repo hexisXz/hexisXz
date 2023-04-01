@@ -1,4 +1,4 @@
-#+TITLE: test org doc
+#+TITLE: my profile
 #+AUTHOR: hexis
 
 linux user since i was 12
