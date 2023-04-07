@@ -18,7 +18,7 @@ learning go
  2) dwm: the second best window manager
  3) Arch linux, popOS, void Linux, freeBSD and openBSD as the base OS
  4) exa: a better ls
- 5) DOOM emacs: best program/app/terminal/IDE/text editor/webbrowser/os i have ever used :)
+ 5) emacs: best program/app/terminal/IDE/text editor/webbrowser/os i have ever used :)
  6) firefox
  7) xmobar: and polybar
  8) pacstall: cant forget pacstall
