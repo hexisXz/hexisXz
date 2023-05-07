@@ -10,7 +10,7 @@ i code in bash and python
 * i program for windows and linux. ( don't hate me i am just trying to learn windows because unfortunately most jobs require you to know windows but i still love linux :) )
 
 * status
-learning go 
+learning go and C
 
 
 * programs i use
