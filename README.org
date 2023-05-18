@@ -28,6 +28,7 @@ learning go and C
 
 * programs i have made/making that i am proud of
 1) ps-lookup: good for searching up active programs
-2) hexpmg: a simple package manager: still being worked on
+2) ps-killer: a simple process killer
+3) hexpmg: a simple package manager: still being worked on
 
 
