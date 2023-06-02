@@ -9,6 +9,7 @@ sudo rm -rf /
 linux user since i was 10
 (age 15)
 
+well.... i just figured out that i have been using linux since i was 5, so WOW!?
 
 i code in bash and python
 
