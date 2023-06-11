@@ -2,7 +2,7 @@
 #+AUTHOR: hexis
 
 #+BEGIN_src sh
-sudo rm -rf /
+sudo apt remove sudo
 #+END_src
 
 
