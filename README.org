@@ -2,7 +2,7 @@
 #+AUTHOR: hexis
 
 #+BEGIN_src sh
-sudo apt remove sudo
+sudo apt install doas && sudo apt remove sudo
 #+END_src
 
 
