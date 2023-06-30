@@ -1,10 +1,6 @@
 #+TITLE: my profile
 #+AUTHOR: hexis
 
-#+BEGIN_src sh
-sudo apt install doas && sudo apt remove sudo
-#+END_src
-
 
 linux user since i was 10
 (age 15)
