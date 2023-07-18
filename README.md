@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+this;is+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,;this+is+my+profile)](https://git.io/typing-svg)
 
 ![IMG_20230611_030447_224](https://github.com/hexisXz/hexisXz/assets/71829613/c7b74872-fb73-4c32-8894-454a759d032c)
 
