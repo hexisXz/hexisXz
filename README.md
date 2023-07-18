@@ -1,7 +1,7 @@
 ![IMG_20230611_030447_224](https://github.com/hexisXz/hexisXz/assets/71829613/c7b74872-fb73-4c32-8894-454a759d032c)
 
 
-linux user since i was 10
+<span style="color:blue">linux user since i was 10</span>
 (age 15)
 
 
