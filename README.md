@@ -1,6 +1,6 @@
 ![IMG_20230611_030447_224](https://github.com/hexisXz/hexisXz/assets/71829613/c7b74872-fb73-4c32-8894-454a759d032c)
 
-```
+
 linux user since i was 10
 (age 15)
 
@@ -29,4 +29,4 @@ learning go and C
 1) **ps-lookup**: good for searching up active programs
 2) **ps-killer**: a simple process killer
 3) **scoria**: a simple package manager: still being worked on
-```
+
