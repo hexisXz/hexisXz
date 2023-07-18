@@ -9,7 +9,7 @@ linux user since i was 10
 i code in bash and python
 
 # my favorite movie and show
-the flash ⚡, Short Circuit 2 (yes i know that movie came out before i was born but i have been watching it since i was around 9 or 10)
+the flash ⚡, Short Circuit 2 🤖 (yes i know that movie came out before i was born but i have been watching it since i was around 9 or 10)
 
 # status
 learning go and C
