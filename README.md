@@ -1,6 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,;this+is+my+profile.;i+make+things.)](https://git.io/typing-svg)
 
-![PXL_20230722_171009020](https://github.com/hexisXz/hexisXz/assets/71829613/4e41a9d1-64b6-4cdd-a421-5aa04a618c7f)
+
+
+
+https://github.com/hexisXz/hexisXz/assets/71829613/fd821be2-3248-427b-b9b6-122344ad3305
+
+
+
 
 
 #### linux user since i was 10
