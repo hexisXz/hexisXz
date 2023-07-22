@@ -1,14 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,;this+is+my+profile.;i+make+things.)](https://git.io/typing-svg)
 
 
-
-
-https://github.com/hexisXz/hexisXz/assets/71829613/fd821be2-3248-427b-b9b6-122344ad3305
-
-
-
-
-
 #### linux user since i was 10
 #### (age 15)
 
