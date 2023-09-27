@@ -1,7 +1,7 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,;this+is+my+profile.;i+make+things.)](https://git.io/typing-svg)
 
-
-![workflow](https://github.com/elbruno/AzureApiBadge/actions/workflows/azure-static-web-apps-victorious-wave-00360790f.yml/badge.svg)
 
 
 ![PXL_20230723_020423108](https://github.com/hexisXz/hexisXz/assets/71829613/7db9bdfa-2de4-4b96-a3f0-566b6ed02970)
@@ -46,3 +46,5 @@
 
 # video by luke smith 
 [![Alt text](https://imgs.search.brave.com/wS_kIuCGcAcvy4Z_vn8DGQop-XvLZWVuCxMsj_-G9Us/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS80/YmV6bDVnWEFjZy9t/YXhyZXNkZWZhdWx0/LmpwZw)](https://www.youtube.com/watch?v=4bezl5gXAcg)
+
+</div>
