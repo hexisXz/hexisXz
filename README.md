@@ -32,7 +32,8 @@
 
 
 <div align="center">
-# programs i use
+
+ # programs i use
 </div>
 
 1) **Alacritty**: if you dont use alacritty idk what you are doing
