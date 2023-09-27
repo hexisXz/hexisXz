@@ -4,7 +4,11 @@
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexisXz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)   <div align="right">  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hexisXz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexisXz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)   
+
+<div align="right">  
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hexisXz)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
