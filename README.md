@@ -30,9 +30,10 @@
 
 
 # programs i have made/making that i am proud of
-1) **ps-lookup**: good for searching up active programs
-2) **ps-killer**: a simple process killer
-3) **scoria**: a simple package manager: still being worked on
+1) **marlmacs** a emacs "distro" i made because i was bored.
+2) **ps-lookup**: good for searching up active programs
+3) **ps-killer**: a simple process killer
+4) **scoria**: a simple package manager: still being worked on
 
 
 ![matrix](https://github.com/hexisXz/hexisXz/assets/71829613/577b1660-9340-40ac-9a30-b5e78ac5cea7)
