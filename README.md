@@ -20,9 +20,9 @@
 #### learning go and C
 
 
-</div>
 
 # programs i use
+</div>
 
 1) **Alacritty**: if you dont use alacritty idk what you are doing
 2) **awesomeWM**: the third best window manager
@@ -34,8 +34,10 @@
 8) **pacstall**: cant forget pacstall when i use debian
 
 
+<div align="center">
 
 # programs i have made/making that i am proud of
+</div>
 1) **marlmacs** a emacs "distro" i made because i was bored.
 2) **ps-lookup**: good for searching up active programs
 3) **ps-killer**: a simple process killer
