@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,;this+is+my+profile.;i+make+things.)](https://git.io/typing-svg)
 
+
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+
+
 ![PXL_20230723_020423108](https://github.com/hexisXz/hexisXz/assets/71829613/7db9bdfa-2de4-4b96-a3f0-566b6ed02970)
 
 
