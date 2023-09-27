@@ -12,15 +12,19 @@
 
 
 #### i code in bash and python
+</div>
 
 # my favorite movie and show
 #### the flash ⚡, Short Circuit 2 🤖 (yes i know that movie came out before i was born but i have been watching it since i was around 9 or 10)
 
+<div align="center">
 # status
+</div>
+
 #### learning go and C
 
 
-
+<div align="center">
 # programs i use
 </div>
 
