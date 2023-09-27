@@ -4,7 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexisXz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![PXL_20230723_020423108](https://github.com/hexisXz/hexisXz/assets/71829613/7db9bdfa-2de4-4b96-a3f0-566b6ed02970)
 
 
 #### linux user since i was 10
