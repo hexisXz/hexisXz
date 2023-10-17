@@ -38,14 +38,14 @@ the flash ⚡, Short Circuit 2 🤖 (yes i know that movie came out before i was
  # programs i use
 </div>
 
-1) **Alacritty**: if you dont use alacritty idk what you are doing
-2) **awesomeWM**: the third best window manager
+1) **Alacritty & st**: if you dont use alacritty idk what you are doing. same with st
+2) **DWM**: the best window manager
 3) **Void linux**
-4) **exa**: a better ls
+4) **eza**: a better ls
 5) **emacs**: best program/app/terminal/IDE/text editor/webbrowser/os i have ever used :)
-6) **firefox**
+6) **brave**
 7) **polybar**: and xmobar
-8) **pacstall**: cant forget pacstall when i use debian
+8) **pacstall**: cant forget pacstall when i use debian. i use debian based distros on my pc and void on my laptop so thats why i say i use pacstall. 
 
 
 <div align="center">
@@ -53,11 +53,11 @@ the flash ⚡, Short Circuit 2 🤖 (yes i know that movie came out before i was
 # programs i have made/making that i am proud of
 </div>
 
-1) **marlmacs** a emacs "distro" i made because i was bored.
+1) **marlmacs** a emacs "distro" i made because i was bored. for some reason it only works on some distros and that actually sucks.
 2) **ps-lookup**: good for searching up active programs
 3) **ps-killer**: a simple process killer
 4) **scoria**: a simple package manager: still being worked on
-
+5) **ebps**: xbps is actually kinda hard to use so i just made a little script to make it better.
 <div align="center">
  
 ![matrix](https://github.com/hexisXz/hexisXz/assets/71829613/577b1660-9340-40ac-9a30-b5e78ac5cea7)
