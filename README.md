@@ -3,12 +3,12 @@
     <td valign="center">
 
    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,;this+is+my+profile.;i+make+things.)](https://git.io/typing-svg)
-   </div>
+ 
 
-  <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexisXz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)   
 
-  </div>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexisXz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)   
+
+
 
    <div align="center">
 
