@@ -5,7 +5,7 @@
    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,;this+is+my+profile.;i+make+things.)](https://git.io/typing-svg)
 
 
-   ![GitHub Activity Graph](https://cdn.hackernoon.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
+  ![GitHub Activity Graph](https://cdn.hackernoon.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
     
 
    <div align="center">
