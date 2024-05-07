@@ -11,7 +11,7 @@
    #### (age 16)
 
 
-   #### i code in bash and python
+   #### i code in bash, a little js, css, HTML, and some C
    </div>
 
    <div align="center">
