@@ -47,12 +47,14 @@
   ![matrix](https://github.com/hexisXz/hexisXz/assets/71829613/577b1660-9340-40ac-9a30-b5e78ac5cea7)
 
 
+  # I ALSO LOVE Дора the Russian pop singer
+  https://youtu.be/IBI6rt1JzQg?si=TYhbU-14L5J5n_mn
+  
   ![mentaldora-дора](https://github.com/user-attachments/assets/e69d06bc-66de-4e2e-a306-7450fa7e2394)
 
   </div>
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexisXz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)   
 
 </tr>
   </table>
