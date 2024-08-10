@@ -47,9 +47,7 @@
   ![matrix](https://github.com/hexisXz/hexisXz/assets/71829613/577b1660-9340-40ac-9a30-b5e78ac5cea7)
 
 
-
-  # video by luke smith 
-  [![Alt text](https://imgs.search.brave.com/wS_kIuCGcAcvy4Z_vn8DGQop-XvLZWVuCxMsj_-G9Us/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS80/YmV6bDVnWEFjZy9t/YXhyZXNkZWZhdWx0/LmpwZw)](https://www.youtube.com/watch?v=4bezl5gXAcg)
+  ![mentaldora-дора](https://github.com/user-attachments/assets/e69d06bc-66de-4e2e-a306-7450fa7e2394)
 
   </div>
 
