@@ -11,7 +11,8 @@
    #### (age 16)
 
    # UPDATE!
-   ![openBSD](https://www.openbsd.org/images/King_of_Kings.jpg)
+   ![King_of_Kings](https://github.com/user-attachments/assets/ac66b355-8a7c-4ce9-9cb1-21b0f8555d42)
+
    ## I now use openBSD as my main OS because if i am being honest i like openBSD more than linux...
 
 
