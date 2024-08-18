@@ -37,7 +37,7 @@
 
   <div align="center">
 
-  # programs i use
+  # programs i use & OS 
   </div>
 
   1) **kitty**
