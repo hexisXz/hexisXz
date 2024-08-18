@@ -10,6 +10,10 @@
    #### linux user since i was 10
    #### (age 16)
 
+   # UPDATE!
+   ![openBSD](https://www.openbsd.org/images/King_of_Kings.jpg)
+   ## I now use openBSD as my main OS because if i am being honest i like openBSD more than linux...
+
 
    #### i code in bash, a little js, css, HTML, and some C (python too)
    </div>
