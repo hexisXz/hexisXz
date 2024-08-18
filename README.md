@@ -40,12 +40,12 @@
   # programs i use
   </div>
 
-  1) **Alacritty & st (rn I use kitty)**: if you dont use alacritty idk what you are doing. same with st
+  1) **kitty**
   2) **DWM**: the best window manager
-  3) **Arch linux**
+  3) **openBSD**
   4) **eza**: a better ls
   5) **emacs**: best program/app/terminal/IDE/text editor/webbrowser/os i have ever used :)
-  6) **brave**
+  6) **firefox**
   7) **polybar**: and xmobar
   8) **pacstall**: cant forget pacstall when i use debian. i use debian based distros on my pc and void on my laptop so thats why i say i use pacstall. 
 
