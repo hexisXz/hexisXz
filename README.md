@@ -1,12 +1,12 @@
 <table>
   <tr>
-    <td valign="center">
+   <div id="header" align="center">
 
    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,;this+is+my+profile.;i+make+things.)](https://git.io/typing-svg)
 
    
-  ![openbsd-puffy](https://github.com/user-attachments/assets/4da8c13e-18c1-449c-b71b-f9fcb7e3cba8)
-
+   ![openbsd-puffy](https://github.com/user-attachments/assets/4da8c13e-18c1-449c-b71b-f9fcb7e3cba8)
+   </div>
 
    <div align="center">
 
