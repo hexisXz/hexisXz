@@ -3,7 +3,10 @@
     <td valign="center">
 
    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,;this+is+my+profile.;i+make+things.)](https://git.io/typing-svg)
-    
+
+   
+  ![openbsd-puffy](https://github.com/user-attachments/assets/4da8c13e-18c1-449c-b71b-f9fcb7e3cba8)
+
 
    <div align="center">
 
@@ -11,7 +14,7 @@
    #### (age 16)
 
    # UPDATE!
-   ![King_of_Kings](https://github.com/user-attachments/assets/ac66b355-8a7c-4ce9-9cb1-21b0f8555d42)
+   [//]: ![King_of_Kings](https://github.com/user-attachments/assets/ac66b355-8a7c-4ce9-9cb1-21b0f8555d42)
 
    ## I now use openBSD as my main OS because if i am being honest i like openBSD more than linux...
 
