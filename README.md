@@ -7,7 +7,6 @@
    
    ![openbsd-puffy](https://github.com/user-attachments/assets/4da8c13e-18c1-449c-b71b-f9fcb7e3cba8)
    </div>
-   ![icons8-badge-48 (1)](https://github.com/user-attachments/assets/4715b1b7-ec04-4ac8-a409-8439cb3422cc)
 
    <div align="center">
 
