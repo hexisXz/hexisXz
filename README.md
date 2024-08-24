@@ -11,7 +11,7 @@
    # programs i made
    <div id="badges">
    <a href="openg">
-   <img src="https://github.com/user-attachments/assets/d4452526-5e1d-4673-b4d9-8a55e69d9b91" alt="LinkedIn Badge"/>
+   <img src="https://github.com/user-attachments/assets/d4452526-5e1d-4673-b4d9-8a55e69d9b91" alt="openg"/>
    </a>
    <a href="gsearch">
    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
