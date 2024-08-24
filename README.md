@@ -9,21 +9,6 @@
    </div>
    ![icons8-badge-48 (1)](https://github.com/user-attachments/assets/4715b1b7-ec04-4ac8-a409-8439cb3422cc)
 
-   # programs i made
-   <div id="badges">
-   <a href="openg">
-   <img src="https://github.com/user-attachments/assets/d4452526-5e1d-4673-b4d9-8a55e69d9b91" alt="openg"/>
-   </a>
-   <a href="gsearch">
-   <img src="https://github.com/user-attachments/assets/4715b1b7-ec04-4ac8-a409-8439cb3422cc" alt="Youtube Badge"/>
-   </a>
-   <a href="ps-lookup">
-   <img src="" alt="Twitter Badge"/>
-   </a>
-   <a href="ebps">
-   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-   </a>
-
    <div align="center">
 
    #### linux user since i was 10
