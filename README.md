@@ -7,6 +7,21 @@
    
    ![openbsd-puffy](https://github.com/user-attachments/assets/4da8c13e-18c1-449c-b71b-f9fcb7e3cba8)
    </div>
+   
+   # programs i made
+   <div id="badges">
+   <a href="openg">
+   <img src="https://github.com/user-attachments/assets/d4452526-5e1d-4673-b4d9-8a55e69d9b91" alt="LinkedIn Badge"/>
+   </a>
+   <a href="gsearch">
+   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+   </a>
+   <a href="ps-lookup">
+   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+   </a>
+   <a href="ebps">
+   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+   </a>
 
    <div align="center">
 
@@ -16,10 +31,10 @@
    # UPDATE!
    [//]: ![King_of_Kings](https://github.com/user-attachments/assets/ac66b355-8a7c-4ce9-9cb1-21b0f8555d42)
 
-   ## I now use openBSD as my main OS because if i am being honest i like openBSD more than linux...
+   ## I now use openBSD as my main OS because if I am being honest I like openBSD more than linux...
 
 
-   #### i code in bash, a little js, css, HTML, and some C (python too)
+   #### i code in bash, a little js, CSS, HTML, and some C (python too)
    </div>
 
    <div align="center">
