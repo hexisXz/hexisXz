@@ -56,7 +56,7 @@
 
 
   # I ALSO LOVE Дора the Russian pop singer
-  https://youtu.be/IBI6rt1JzQg?si=TYhbU-14L5J5n_mn
+  https://youtu.be/T1RiOEjvqm0?si=jwG9zHuGjmid1PAV
   
   ![mentaldora-дора](https://github.com/user-attachments/assets/e69d06bc-66de-4e2e-a306-7450fa7e2394)
 
