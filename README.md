@@ -11,7 +11,7 @@
    <div align="center">
 
    #### linux user since i was 10
-   #### (age 17)
+   #### (age 18)
 
    # UPDATE!
    [//]: ![King_of_Kings](https://github.com/user-attachments/assets/ac66b355-8a7c-4ce9-9cb1-21b0f8555d42)
