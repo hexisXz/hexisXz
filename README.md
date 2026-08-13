@@ -4,8 +4,6 @@
 
    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,;this+is+my+profile.;i+make+things.)](https://git.io/typing-svg)
 
-   </div>
-
    <div align="center">
 
    #### linux user since i was 10
